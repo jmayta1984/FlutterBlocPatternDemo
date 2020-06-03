@@ -1,4 +1,4 @@
-# flutter_bloc_demo
+# Flutter Bloc Pattern Demo
 
 A new Flutter project.
 
